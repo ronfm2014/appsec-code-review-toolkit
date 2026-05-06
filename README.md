@@ -1,6 +1,6 @@
 # AppSec Code Review Toolkit
 
-> **Author:** Ronald Maboufotso · CISSP · OSWP (OSWE in progress) · Principal Security Engineer  
+> **Author:** Ronald 
 > **Language:** Python 3.10+  
 > **Targets:** Python · Java  
 > **Tests:** 26 passing · 0 failing  
